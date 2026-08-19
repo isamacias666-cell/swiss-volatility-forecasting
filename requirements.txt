@@ -1,0 +1,24 @@
+# Core data handling
+pandas>=2.0
+numpy>=1.24
+
+# Statistics / econometrics
+scipy>=1.10
+statsmodels>=0.14
+
+# Machine learning challenger (Milestone 3)
+lightgbm>=4.0
+
+# Plotting
+matplotlib>=3.7
+seaborn>=0.12
+
+# Notebook execution / conversion
+jupyter>=1.0
+nbformat>=5.9
+nbconvert>=7.0
+ipykernel>=6.25
+
+# PDF memo generation
+reportlab>=4.0
+pdf2image>=1.16
